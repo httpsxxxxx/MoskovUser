@@ -1,7 +1,0 @@
-#Prints 100 lines
-import os
-
-os.system('clear')
-
-for i in range(1, 101):
-    print(f"Number : {i}")
